@@ -1,0 +1,9 @@
+﻿program test
+var i:bool;
+while a >= b do 
+   f :=a/b+d-a;
+   c := 2.1a6;
+   e := 3acd3;
+   d:= 3.12.1
+   d := c*d;
+end;

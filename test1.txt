@@ -1,0 +1,24 @@
+﻿program test
+var a,b,c,d,e,f,g:integer;&
+h:real;
+i:bool;
+begin
+   c:=a+b;
+   d:=a-b;
+   e:=a*b;
+   f:=a/b;
+   if c>=d
+    then $
+     c:=2.12D4
+	else
+	 c:=2a56;
+   while e<>f
+    do
+	  e:=e-1;
+	  f:=f+1
+	  ;
+	begin
+	  h:=2.4.56;
+	  i:= 6.733
+	end;
+end;
